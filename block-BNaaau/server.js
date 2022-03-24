@@ -1,1 +1,1 @@
-var = 
+var http = request('http');
